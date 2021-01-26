@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+body{
+    background-image: url('bg-pattern-top.svg'), url('bg-pattern-top.svg');
+    background-color: hsl(185, 75%, 39%);
+    background-repeat: no-repeat;
+    background-position: -25rem -30rem, 40rem 25rem;
+    height: 100vh; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    font-family: 'Kumbh Sans';
+    
+}
+section{
+    text-align: center;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    height: 22em;
+    border-radius: 0.5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background-image: url('bg-pattern-card.svg');
+    background-repeat: no-repeat;
+    flex-direction: column;
+}
+img{
+    border-radius: 5em;
+    border: 5px white solid;
+    margin-top: 5em;
+    margin-bottom: 1em;
+}
+hr{
+   width: 99.5%;
+   border: 1px solid hsla(0, 0%, 59%, 0.221) 
+}
+.gray{
+    color:  hsl(227, 10%, 46%)
+}
+.name{
+    font-weight: 700;
+
+}
+#sec{
+    font-weight: 400; 
+}
+#marg{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: small;
+}
+#marg1{
+    margin-top: 1.5em;
+    font-weight: 700;
+    font-size: medium;
+    word-spacing: 35px;
+}
+#marg2{
+    margin-bottom: 1em;
+    margin-top: 0.5em;
+    font-size: x-small;
+    word-spacing: 40px;
+    padding-right: 1em;
+
+
+
+}
+
+
