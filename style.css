@@ -3,7 +3,7 @@ body{
     background-image: url('bg-pattern-top.svg'), url('bg-pattern-top.svg');
     background-color: hsl(185, 75%, 39%);
     background-repeat: no-repeat;
-    background-position: -25rem -30rem, 40rem 25rem;
+    background-position: -15rem -30rem, 40rem 25rem;
     height: 100vh; 
     display: flex; 
     align-items: center; 
